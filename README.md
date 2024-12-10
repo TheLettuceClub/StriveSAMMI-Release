@@ -3,7 +3,7 @@ Releases of the Strive x SAMMI live content mod
 #### Abstract:
 SAMMI support in Guilty Gear Strive. Essentially allows exporting the game state at any instant to drive the SAMMI streaming automation software. This in turn can drive dynamic OBS overlays with data directly from the game as it happens!
 
-See [Strive SAMMI documentation.docx](https://github.com/TheLettuceClub/StriveSAMMI/blob/master/Strive%20SAMMI%20documentation.docx) for setup and general SAMMI documentation.
+See [Strive SAMMI documentation.docx](https://github.com/TheLettuceClub/StriveSAMMI-Release/blob/main/Strive%20SAMMI%20documentation.docx) for setup and general SAMMI documentation.
 
 #### Disclaimer:
 **This mod is not intended to support cheating of any kind, or in any way, shape or form.** Use of the mod for it's intended purpose (SAMMI/OBS stuff) is safe and will not get you banned. **Any form of cheating using the data from this mod is entirely the responsiblity of the cheater, not me. Arcsys can ban you.**
