@@ -5,6 +5,8 @@ SAMMI support in Guilty Gear Strive. Essentially allows exporting the game state
 
 See [Strive SAMMI documentation.docx](https://github.com/TheLettuceClub/StriveSAMMI-Release/blob/main/Strive%20SAMMI%20documentation.docx) for setup and general SAMMI documentation.
 
+Questions? Hopefully they're answered [here!](https://docs.google.com/document/d/19SLtZE39rVosIQEIUAlRiTOn6MAm2D0ayBqbDO22aS0/)
+
 #### Disclaimer:
 **This mod is not intended to support cheating of any kind, or in any way, shape or form.** Use of the mod for it's intended purpose (SAMMI/OBS stuff) is safe and will not get you banned. **Any form of cheating using the data from this mod is entirely the responsiblity of the cheater, not me. Arcsys can ban you.**
 
