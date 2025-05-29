@@ -8,9 +8,9 @@ See [Strive SAMMI documentation.docx](https://github.com/TheLettuceClub/StriveSA
 Questions? Hopefully they're answered [here!](https://thelettuceclub.github.io/mods/)
 
 #### Disclaimer:
-**This mod is not intended to support cheating of any kind, or in any way, shape or form.** Use of the mod for it's intended purpose (SAMMI/OBS stuff) is safe and will not get you banned. **Any form of cheating using the data from this mod is entirely the responsiblity of the cheater, not me. Arcsys can ban you.**
+**This mod is not intended to support cheating of any kind, or in any way, shape or form.** Use of the mod for it's intended purpose (SAMMI/OBS stuff) is safe and will not get you banned. **Any form of cheating using the data from this mod is entirely the responsiblity of the cheater, not me. Arcsys can ban you.** As a result of this, there is a universal (non-negotiable) 20 frame delay for all message sent from the mod, you should compensate for this in OBS or whatever your endpoint app is.
 
-As a result of this, there is a universal (non-negotiable) 20 frame delay for all message sent from the mod, you should compensate for this in OBS or whatever your endpoint app is.
+No leaked content was consulted, viewed or present in the creation of this mod. The offsets, hooks and signatures are entirely my own; reverse engineered thru Ghidra.
 
 #### How to install:
 1. Download the release ZIP from the releases tab.
